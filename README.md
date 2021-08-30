@@ -27,9 +27,22 @@ In this project used N-tier architecture with:
     * Your password to database
     * Hibernate configuration
 3. Install and configure Local Tomcat Server.
-4. Admin and user will be added by default in DataInitializer. 
-   * User: user@gmail.com pass: 1234 
-     Available: /register; Get: /cinema-halls, /movies, /movie-sessions/**, /orders, /shopping-carts; Post: /orders, /shopping-carts;
-   * Admin: admin@gmail.com pass: 12345
-     Available: /register; Get: /cinema-halls, /movies, /movie-sessions/**, /users/; Post: /cinema-halls, /movies, /movie-sessions/, /orders/, /shopping-carts; Put, Delete: /movie-sessions/;
+4. Admin and user will be added by default in DataInitializer.
+   ####User: user@gmail.com pass: 1234 
+     
+      Available: /register; 
+
+      Get: /cinema-halls, /movies, /movie-sessions/**, /orders, /shopping-carts; 
+
+      Post: /orders, /shopping-carts;
+
+   ####Admin: admin@gmail.com pass: 12345
+    
+     Available: /register; 
+     
+     Get: /cinema-halls, /movies, /movie-sessions/**, /users/; 
+     
+     Post: /cinema-halls, /movies, /movie-sessions/, /orders/, /shopping-carts; 
+     
+     Put, Delete: /movie-sessions/;
      
