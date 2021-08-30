@@ -28,7 +28,7 @@ In this project used N-tier architecture with:
     * Hibernate configuration
 3. Install and configure Local Tomcat Server.
 4. Admin and user will be added by default in DataInitializer.
-   ####User: user@gmail.com pass: 1234 
+   #### User: user@gmail.com pass: 1234 
      
       Available: /register; 
 
@@ -36,7 +36,7 @@ In this project used N-tier architecture with:
 
       Post: /orders, /shopping-carts;
 
-   ####Admin: admin@gmail.com pass: 12345
+   #### Admin: admin@gmail.com pass: 12345
     
      Available: /register; 
      
